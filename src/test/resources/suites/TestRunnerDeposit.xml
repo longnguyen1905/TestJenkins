@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Deposit SAT">
+
+    <test name="Deposit">
+        <classes>
+            <class name="potslotty.runners.TestRunnerDeposit"/>
+        </classes>
+    </test>
+
+</suite>

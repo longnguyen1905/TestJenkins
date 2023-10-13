@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Home">
+
+    <test name="Header redirections">
+        <classes>
+            <class name="potslotty.runners.TestRunnerHome"/>
+        </classes>
+
+    </test>
+
+</suite>

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Anonymous User">
+
+    <test name="Anonymous User">
+        <classes>
+            <class name="potslotty.runners.TestRunnerAnonymousUser"/>
+        </classes>
+
+    </test>
+
+</suite>

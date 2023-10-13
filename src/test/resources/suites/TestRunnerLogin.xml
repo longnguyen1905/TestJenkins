@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Login">
+
+    <test name="1.Login">
+        <classes>
+            <class name="potslotty.runners.TestRunnerLogin"/>
+        </classes>
+
+    </test>
+
+</suite>
