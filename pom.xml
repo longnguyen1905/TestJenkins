@@ -221,8 +221,8 @@
 
                     <suiteXmlFiles>
                         <!-- Call Suite path -->
-<!--                        <suiteXmlFile>src/test/resources/suites/TestRunnerAll.xml</suiteXmlFile>-->
-                        <suiteXmlFile>src/test/resources/suites/TestRunnerLogin.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/suites/TestRunnerAll.xml</suiteXmlFile>
+<!--                        <suiteXmlFile>src/test/resources/suites/TestRunnerLogin.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
 
                     <rerunFailingTestsCount>1</rerunFailingTestsCount>
